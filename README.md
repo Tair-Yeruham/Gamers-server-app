@@ -16,4 +16,4 @@ And creating new friendships and providing chat for players.
   - List of user games.
   - Group and private chat messages.
 
-## Attached is a video of the app
+#### Attached is a video of the app
